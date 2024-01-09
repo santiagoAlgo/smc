@@ -1,0 +1,19 @@
+build:
+  version: yeahman
+accounts:
+  message: "wuba luba dub dub!"
+  contactDetails:
+    name: "Stewart Jonson"
+    email: "ejonson@google.com"
+patriots:
+  location: "Boston"
+  staff:
+    - Bill Bellichick
+    - Mac Jones
+    - Other guys
+chiefs:
+  location: "Kansas"
+  staff:
+    - Travis Kelcy
+    - Patrick Mahomes
+    - others

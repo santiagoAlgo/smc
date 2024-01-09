@@ -1,0 +1,7 @@
+loans:
+  description: "Loans chit"
+  contacts:
+    - loanardodicarpio@loans.com
+    - loanranger@loans.com
+build:
+  version: "10"

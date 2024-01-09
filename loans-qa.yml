@@ -1,0 +1,9 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+loans:
+  description: "QA Loans chit"
+  contacts:
+    - qaloanardodicarpio@loans.com
+    - qaloanranger@loans.com

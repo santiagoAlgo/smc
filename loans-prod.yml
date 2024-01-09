@@ -1,0 +1,10 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+loans:
+  description: "Prod Loans chit"
+  contacts:
+    - prodloanardodicarpio@loans.com
+    - prodloanranger@loans.com

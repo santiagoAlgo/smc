@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+build:
+  version: yeahman_QA
+accounts:
+  message: "QA wuba luba dub dub!"
+  contactDetails:
+    name: "QA Stewart Jonson"
+    email: "qa_ejonson@google.com"
+patriots:
+  location: "QA Boston"
+  staff:
+    - QA Bill Bellichick
+    - QA Mac Jones
+    - QA Other guys

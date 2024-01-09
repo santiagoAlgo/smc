@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+build:
+  version: yeahman_PROD
+accounts:
+  message: "PROD wuba luba dub dub!"
+  contactDetails:
+    name: "PROD Stewart Jonson"
+    email: "prod_ejonson@google.com"
+patriots:
+  location: "Prod Boston"
+  staff:
+    - Prod Bill Bellichick
+    - Prod Mac Jones
+    - Prod Other guys
